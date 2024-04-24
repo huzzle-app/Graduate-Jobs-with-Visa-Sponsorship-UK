@@ -4,7 +4,7 @@ Use this repo to find **300+ live graduate roles** from companies that **sponsor
 
 🇩🇪🇩🇰🇨🇴🇨🇿🇬🇷🇪🇹🇭🇷🇨🇺🇭🇺🇮🇹🇱🇺🇲🇼🇮🇪🇮🇱🇳🇪🇷🇺🇸🇰🇸🇮🇪🇸🇿🇦🇰🇷🇸🇸🇬🇧🇺🇸🇪🇭🇺🇦🇨🇭🇸🇪🇸🇰🇵🇹🇵🇱🇵🇰🇳🇬🇮🇳🇬🇭🇪🇺🇧🇬🇨🇦🇻🇬🇦🇷🇩🇿🇦🇺
 
-⚠️ Please note that this repository is exclusively for **graduate jobs with Visa Sponsorship** in the **United Kingdom** 🇬🇧
+⚠️ Please note that this repository is exclusively for graduate jobs with Visa Sponsorship in the United Kingdom 🇬🇧
 
 
 -----
