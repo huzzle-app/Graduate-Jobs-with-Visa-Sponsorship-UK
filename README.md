@@ -11,7 +11,7 @@ Use this repo to find **300+ live graduate roles** from companies that **sponsor
 <div align="center">
 	<p> 
 		<a href="https://huzzle.app?utm_source=GHList&utm_medium=banner">
-			<b>Applying to internships?</b>
+			<b>Applying to internships or jobs?</b>
 			<br>
 			Autofill all your applications in a single click.
 			<br>
