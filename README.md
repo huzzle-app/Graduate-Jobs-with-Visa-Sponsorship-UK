@@ -1,6 +1,6 @@
 # 2024 Graduate Jobs with Visa Sponsorship by Huzzle
 
-Use this repo to find **300+ live graduate roles** from companies that **sponsor** **visas**! 
+Struggling to find visa-sponsored graduate roles? Use this repo to find **300+ live graduate roles** from companies that **sponsor** **visas**! 
 
 🇩🇪🇩🇰🇨🇴🇨🇿🇬🇷🇪🇹🇭🇷🇨🇺🇭🇺🇮🇹🇱🇺🇲🇼🇮🇪🇮🇱🇳🇪🇷🇺🇸🇰🇸🇮🇪🇸🇿🇦🇰🇷🇸🇸🇬🇧🇺🇸🇪🇭🇺🇦🇨🇭🇸🇪🇸🇰🇵🇹🇵🇱🇵🇰🇳🇬🇮🇳🇬🇭🇪🇺🇧🇬🇨🇦🇻🇬🇦🇷🇩🇿🇦🇺
 
