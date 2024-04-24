@@ -19,6 +19,23 @@ Use this repo to find **300+ live graduate roles** from companies that **sponsor
     <sub>Stop manually re-entering your information. Huzzle’s extension helps you autofill internship applications on millions of sites.</sub>
 </p>
 
+<div align="center">
+	<p> 
+		<a href="https://huzzle.app?utm_source=GHList&utm_medium=banner">
+			<b>Applying to internships?</b>
+			<br>
+			Autofill all your applications in a single click.
+			<br>
+			<div>
+				<a href="https://huzzle.app?utm_source=GHList&utm_medium=text">
+          <img src="https://uploads-ssl.webflow.com/652d2475f39e846f2116f06b/660b2cd59fe2d84ed8bde09e_huzzle.png" width="450" alt="Huzzle">
+        </a>
+			</div>
+		</a>
+		<sub><i>Stop manually re-entering your information. Huzzle’s extension helps you autofill internship applications on millions of sites.</i></sub>
+	</p>
+</div>
+
 -----
 
 
