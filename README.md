@@ -1,13 +1,13 @@
 # 2024 Graduate Jobs with Visa Sponsorship by Huzzle
 
-Use this repo to find 300+ live graduate roles from companies that sponsor visas! 
+Use this repo to find **300+ live graduate roles** from companies that sponsor **visas**! 
 🇩🇪🇩🇰🇨🇴🇨🇿🇬🇷🇪🇹🇭🇷🇨🇺🇭🇺🇮🇹🇱🇺🇲🇼🇮🇪🇮🇱🇳🇪🇷🇺🇸🇰🇸🇮🇪🇸🇿🇦🇰🇷🇸🇸🇬🇧🇺🇸🇪🇭🇺🇦🇨🇭🇸🇪🇸🇰🇵🇹🇵🇱🇵🇰🇳🇬🇮🇳🇬🇭🇪🇺🇧🇬🇨🇦🇻🇬🇦🇷🇩🇿🇦🇺
 
 ⚠️ Please note that this repository is exclusively for graduate jobs with Visa Sponsorship in the United Kingdom 🇬🇧
 
 
 -----
-<p align='center'> <i>Tired of checking for new jobs every day?</i></p>
+<p align='center'> <i><a href='https://huzzle.app?utm_source=GHList&utm_medium=text'>Tired of checking for new jobs every day?<a/a></i></p>
 
 <p align='center'> <i><a href='https://huzzle.app?utm_source=GHList&utm_medium=text'>Join Huzzle and get sent personalised opportunities every single week 💚</a></i></p>
 
