@@ -16,11 +16,8 @@ Use this repo to find **300+ live graduate roles** from companies that **sponsor
     <img src='https://uploads-ssl.webflow.com/652d2475f39e846f2116f06b/660b2cd59fe2d84ed8bde09e_huzzle.png' alt='Huzzle' style='width:450px;height:158px;'>
   </a>
   <br>
-  <span style='color: grey; font-family: cursive; font-size: 14px; display: block;'>
-    Stop manually re-entering your information. Huzzle’s extension helps you autofill internship applications on millions of sites.
-  </span>
+    <sub></sub>Stop manually re-entering your information. Huzzle’s extension helps you autofill internship applications on millions of sites.</sub>
 </p>
-
 
 -----
 
